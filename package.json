@@ -1,47 +1,47 @@
 {
-	"name": "flamenco",
-	"license": "GPL-2.0+",
-	"author": "Blender Institute",
-	"repository": {
-		"type": "git",
-		"url": "git://git.blender.org/flamenco.git"
-	},
-	"devDependencies": {
-		"@babel/core": "^7.1.6",
-		"@babel/preset-env": "^7.1.6",
-		"acorn": "^5.7.3",
-		"babel-core": "^7.0.0-bridge.0",
-		"babelify": "^10.0.0",
-		"browserify": "^16.2.3",
-		"gulp": "^4.0.2",
-		"gulp-autoprefixer": "^6.0.0",
-		"gulp-cached": "^1.1.1",
-		"gulp-chmod": "^2.0.0",
-		"gulp-concat": "^2.6.1",
-		"gulp-git": "^2.8.0",
-		"gulp-if": "^2.0.2",
-		"gulp-plumber": "^1.2.0",
-		"gulp-pug": "^4.0.1",
-		"gulp-rename": "^1.4.0",
-		"gulp-sass": "^4.0.2",
-		"gulp-sourcemaps": "^2.6.4",
-		"gulp-uglify-es": "^1.0.4",
-		"minimist": "^1.2.0",
-		"vinyl-buffer": "^1.0.1",
-		"vinyl-source-stream": "^2.0.0"
-	},
-	"dependencies": {
-		"bootstrap": "^4.1.3",
-		"dagre-d3": "^0.6.3",
-		"event-stream": "^4.0.1",
-		"jquery": "^3.5.0",
-		"natives": "^1.1.6",
-		"popper.js": "^1.14.4"
-	},
-	"__COMMENTS__": [
-		"natives@1.1.6 for Gulp 3.x on Node 10.x: https://github.com/gulpjs/gulp/issues/2162#issuecomment-385197164"
-	],
-	"resolutions": {
-		"natives": "1.1.6"
-	}
+  "name": "flamenco",
+  "license": "GPL-2.0+",
+  "author": "Blender Institute",
+  "repository": {
+    "type": "git",
+    "url": "git://git.blender.org/flamenco.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "acorn": "^5.7.3",
+    "babel-core": "^7.0.0-bridge.0",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-chmod": "^2.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-git": "^2.8.0",
+    "gulp-if": "^2.0.2",
+    "gulp-plumber": "^1.2.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify-es": "^1.0.4",
+    "minimist": "^1.2.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "dagre-d3": "^0.6.3",
+    "event-stream": "^4.0.1",
+    "jquery": "^3.5.0",
+    "natives": "^1.1.6",
+    "popper.js": "^1.14.4"
+  },
+  "__COMMENTS__": [
+    "natives@1.1.6 for Gulp 3.x on Node 10.x: https://github.com/gulpjs/gulp/issues/2162#issuecomment-385197164"
+  ],
+  "resolutions": {
+    "natives": "1.1.6"
+  }
 }
